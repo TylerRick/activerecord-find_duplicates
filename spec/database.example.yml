@@ -1,0 +1,8 @@
+sqlite3:
+  adapter: sqlite3
+  database: ":memory:"
+pg:
+  adapter: postgresql
+  database: find_duplicates_test
+  username: find_duplicates
+  password: find_duplicates
